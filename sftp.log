@@ -1,0 +1,30 @@
+Dec 16 10:32:09 10.71.60.0 a2703074 Connection from 10.71.60.0 port 56008 on 66.175.237.43 port 22 rdomain ""
+Dec 16 10:32:11 10.71.60.0 a2703074 Accepted password for a2703074 from 10.71.60.0 port 56008 ssh2
+Dec 16 10:32:12 10.71.60.0 a2703074 Starting session: subsystem 'sftp' for a2703074 from 10.71.60.0 port 56008 id 0
+Dec 16 10:32:12 10.71.60.0 a2703074 session opened for local user a2703074 from [10.71.60.0]
+Dec 16 10:33:31 10.71.60.0 a2703074 Connection from 10.71.60.0 port 29970 on 66.175.237.43 port 22 rdomain ""
+Dec 16 10:33:31 10.71.60.0 a2703074 Accepted password for a2703074 from 10.71.60.0 port 29970 ssh2
+Dec 16 10:33:31 10.71.60.0 a2703074 Connection from 10.71.60.0 port 29954 on 66.175.237.43 port 22 rdomain ""
+Dec 16 10:33:31 10.71.60.0 a2703074 Accepted password for a2703074 from 10.71.60.0 port 29954 ssh2
+Dec 16 10:33:32 10.71.60.0 a2703074 Starting session: subsystem 'sftp' for a2703074 from 10.71.60.0 port 29970 id 0
+Dec 16 10:33:32 10.71.60.0 a2703074 session opened for local user a2703074 from [10.71.60.0]
+Dec 16 10:33:32 10.71.60.0 a2703074 Starting session: subsystem 'sftp' for a2703074 from 10.71.60.0 port 29954 id 0
+Dec 16 10:33:32 10.71.60.0 a2703074 session opened for local user a2703074 from [10.71.60.0]
+Dec 16 10:33:32 10.71.60.0 a2703074 open "/location/country/ca/ab/ymm/heat/hope/indexv2.html" flags READ mode 0666
+Dec 16 10:33:33 10.71.60.0 a2703074 open "/location/country/ca/ab/ymm/heat/hope/index.html" flags READ mode 0666
+Dec 16 10:33:33 10.71.60.0 a2703074 close "/location/country/ca/ab/ymm/heat/hope/indexv2.html" bytes read 21971 written 0
+Dec 16 10:33:33 10.71.60.0 a2703074 [10.71.60.0|get|1|21971|0|0|0|2f6c6f636174696f6e2f636f756e7472792f63612f61622f796d6d2f686561742f686f70652f696e64657876322e68746d6c|]
+Dec 16 10:33:33 10.71.60.0 a2703074 close "/location/country/ca/ab/ymm/heat/hope/index.html" bytes read 65422 written 0
+Dec 16 10:33:33 10.71.60.0 a2703074 [10.71.60.0|get|1|65422|0|0|0|2f6c6f636174696f6e2f636f756e7472792f63612f61622f796d6d2f686561742f686f70652f696e6465782e68746d6c|]
+Dec 16 10:33:33 10.71.60.0 a2703074 open "/location/country/ca/ab/ymm/heat/hope/indexv1.html" flags READ mode 0666
+Dec 16 10:33:33 10.71.60.0 a2703074 close "/location/country/ca/ab/ymm/heat/hope/indexv1.html" bytes read 18807 written 0
+Dec 16 10:33:33 10.71.60.0 a2703074 [10.71.60.0|get|0|18807|0|0|0|2f6c6f636174696f6e2f636f756e7472792f63612f61622f796d6d2f686561742f686f70652f696e64657876312e68746d6c|]
+Dec 16 10:33:35 10.71.60.0 a2703074 sent status No such file
+Dec 16 10:33:35 10.71.60.0 a2703074 open "/logs/access.log.46.gz" flags READ mode 0666
+Dec 16 10:33:35 10.71.60.0 a2703074 open "/logs/access.log.50.4.gz" flags READ mode 0666
+Dec 16 10:33:35 10.71.60.0 a2703074 close "/logs/access.log.46.gz" bytes read 39754 written 0
+Dec 16 10:33:35 10.71.60.0 a2703074 [10.71.60.0|get|0|39754|0|0|0|2f6c6f67732f6163636573732e6c6f672e34362e677a|]
+Dec 16 10:33:35 10.71.60.0 a2703074 close "/logs/access.log.50.4.gz" bytes read 5403 written 0
+Dec 16 10:33:35 10.71.60.0 a2703074 [10.71.60.0|get|0|5403|0|0|0|2f6c6f67732f6163636573732e6c6f672e35302e342e677a|]
+Dec 16 10:33:35 10.71.60.0 a2703074 open "/logs/access.log.50.6.gz" flags READ mode 0666
+Dec 16 10:33:35 10.71.60.0 a2703074 open "/logs/sftp.log" flags READ mode 0666
